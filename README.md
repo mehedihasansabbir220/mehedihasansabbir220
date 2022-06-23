@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Mehedi Hasan Sabbir 
 #### Full Stack web developer 
 I am 
-- A software engineer with 2+ years of experience working on diverse technologies, platforms, frameworks, and libraries. Last couple of years I have been working as a full-stack web developer. I have experience developing performant, responsive web frontends using React.js, and Next.js. and highly scalable backend services using Java, Node.js on AWS services, Kubernetes on Google Clouds or On-Premise Systems.
+- A software engineer with 3+ years of experience working on diverse technologies, platforms, frameworks, and libraries. Last couple of years I have been working as a full-stack web developer. I have experience developing performant, responsive web frontends using React.js, and Next.js. and highly scalable backend services using Java, Node.js on AWS services, Kubernetes on Google Clouds or On-Premise Systems.
 
 Why choose me?
  - Every project is different. I have the sharp meta-skills required to solve novel challenging problems. - Large skill-set: I have domain knowledge and work experience on the industry's greatest and latest tech stack. - I have experience in delivering large projects with multi-functional teams.Work Methodology 
